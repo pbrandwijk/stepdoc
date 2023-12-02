@@ -8,7 +8,7 @@ const log_prefix = "[ExampleBusinessLibrary] ";
 
 /**
  * Example function that returns a boolean.
- * @type Validation check
+ * @functiontype Validation check
  * @level Warning
  * @objecttype Product
  * @statusrange 4-25
