@@ -1,0 +1,20 @@
+{
+  "name": "stepdoc",
+  "version": "1.0.0",
+  "description": "JSDoc template for STEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrandwijk/stepdoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbrandwijk/stepdoc/issues"
+  },
+  "homepage": "https://github.com/pbrandwijk/stepdoc#readme"
+}
