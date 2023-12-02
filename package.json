@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/pbrandwijk/stepdoc/issues"
   },
-  "homepage": "https://github.com/pbrandwijk/stepdoc#readme"
+  "homepage": "https://github.com/pbrandwijk/stepdoc#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  },
+  "dependencies": {
+    "liquidjs": "^10.9.4"
+  }
 }
